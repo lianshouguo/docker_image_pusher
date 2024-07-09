@@ -3,7 +3,8 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 linkease/linkease:lates
-haroldli/xiaoya-tvbox:lates
+mtphotos/mt-photos:lates
+cloudnas/clouddrive2-unstable:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
