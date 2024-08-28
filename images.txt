@@ -1,6 +1,3 @@
 #支持私库
-mtphotos/mt-photos
-haroldli/xiaoya-tvbox
+linkease/linkease
 #支持指定架构
-
-
