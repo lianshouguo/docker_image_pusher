@@ -1,3 +1,4 @@
 #支持私库
-linkease/linkease
+linkease/linkease:latest
+
 #支持指定架构
