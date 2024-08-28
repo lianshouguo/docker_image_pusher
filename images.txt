@@ -1,4 +1,4 @@
 #支持私库
-linkease/linkease:latest
+kasmweb/nginx
 
 #支持指定架构
