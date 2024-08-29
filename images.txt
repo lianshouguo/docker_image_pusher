@@ -1,4 +1,3 @@
 #支持私库
-kasmweb/nginx
-
+xiaoya-tvbox
 #支持指定架构
