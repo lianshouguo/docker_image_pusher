@@ -1,4 +1,4 @@
 #支持私库
-xiaoya-tvbox
+cloudnas/clouddrive2-unstable:latest
 
 #支持指定架构
